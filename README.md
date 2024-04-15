@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **javascrift, OOP in java, Python**
 
 - 📫 How to reach me **ijisrat5@gmail.com**
+- ![image](https://github.com/Israt-1234/Israt-1234/assets/140290748/7b9c8abf-0c41-4be9-b95a-6a13d1e654a9)
+Interest: Science, Math, Astronomy, Coffee, and Coding.
 
 - ⚡ Fun fact **I am funny🥰**
 
