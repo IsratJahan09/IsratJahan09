@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israt-1234&label=Profile%20views&color=0e75b6&style=flat" alt="israt-1234" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israt-1234" alt="israt-1234" /></a> </p>
 - 🌱 I’m currently learning **javascrift, OOP in java, Python**
 
 - 📫 How to reach me **ijisrat5@gmail.com**
