@@ -13,7 +13,7 @@
   
 - 🐾 I’m looking to network and make friends here!
   
-- ☕ Interest:Science, Math, Astronomy, Tea and Coding👨‍💻
+- ☕ Interest: Science, Math, Astronomy, Coffee and Coding👨‍💻
 
 - ⚡ Fun fact **I am funny🥰**
 
