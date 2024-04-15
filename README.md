@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋, I'm Israt Jahan</h1>
 <h3 align="center">I study in Bangladesh at East Delta University</h3>
 
-<img align="right"  alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
+<img align="right"  alt="coding" width="370"  src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israt-1234&label=Profile%20views&color=0e75b6&style=flat" alt="israt-1234" /> </p>
 
@@ -13,7 +13,7 @@
   
 - 🐾 I’m looking to network and make friends here!
   
-- ☕ Interest: Science, Math, Astronomy, Coffee, and Coding 👨‍💻.
+- ☕ Interest: Science, Math, Astronomy, Coffee, and Coding👨‍💻
 
 - ⚡ Fun fact **I am funny🥰**
 
