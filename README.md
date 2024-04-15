@@ -10,8 +10,10 @@
 - 🌱 I’m currently learning **javascrift, OOP in java, Python**
 
 - 📫 How to reach me **ijisrat5@gmail.com**
+  
 - 🐾 I’m looking to network and make friends here!
--☕ Interest: Science, Math, Astronomy, Coffee, and Coding 👨‍💻.
+  
+- ☕ Interest: Science, Math, Astronomy, Coffee, and Coding 👨‍💻.
 
 - ⚡ Fun fact **I am funny🥰**
 
