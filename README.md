@@ -1,5 +1,5 @@
 ![logo](https://github.com/Israt-1234/Israt-1234/blob/main/github%20banner.png)
-<h1 align="center">Hey 👋, I'm Israt Jahan</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=851c73&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Israt+Jahan" alt="Typing SVG" /></a>
 <h3 align="center">I study in Bangladesh at East Delta University</h3>
 
 <img align="right"  alt="coding" width="370"  src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
