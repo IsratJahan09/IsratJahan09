@@ -1,4 +1,4 @@
-![logo](https://github.com/Israt-1234/Israt-1234/blob/main/github%20banner.jpg.jpg)
+![logo](https://github.com/Israt-1234/Israt-1234/blob/main/github%20banner2.png)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&duration=2000&pause=2000&color=FFC107&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Israt+Jahan" alt="Typing SVG" /></a>
 <hr>
 <img align="right"  alt="coding" width="370"  src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
