@@ -43,8 +43,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Israt-1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div> 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+
+## GSSOC(24) Badges 🪶<br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
-</div>
+<!-- </details>-->
+</div> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
