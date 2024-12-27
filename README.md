@@ -40,7 +40,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Israt-1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=IsratJahan09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <div> 
 
