@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsratJahan09&label=Profile%20views&color=0e75b6&style=flat" alt="IsratJahan09" /> </p>
 
 
-- 🌱 I’m currently learning **React, express.js, Python**
+- 🌱 I’m currently learning **React, Python, django**
 
 - 📫 How to reach me: **ijisrat5@gmail.com**
   
